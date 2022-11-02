@@ -1,0 +1,13 @@
+.suggestions {
+    display: flex;
+}
+
+.suggestion {
+    font-size: .75rem;
+    margin-left: 4px;
+    margin-top: 4px;
+}
+
+.utensil-icon {
+    margin-top: 4px;
+}
