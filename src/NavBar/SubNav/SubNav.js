@@ -16,7 +16,7 @@ export function SubNav() {
                         </span>
                         <span>Write a Review</span>
                     </button>
-                    <button className={`button ${styles['subnav-button']} ${styles['omit-right-border']}`}>
+                    <button className={`button ${styles['subnav-button']}`}>
                         <span className="icon">
                             <i className="fas fa-hotel"></i>
                         </span>
@@ -26,7 +26,7 @@ export function SubNav() {
 
 
             </div>
-        </div>
+        </div >
 
     );
 }
