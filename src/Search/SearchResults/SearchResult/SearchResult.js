@@ -9,9 +9,9 @@ export function SearchResult() {
             <div className={styles['business-info']}>
                 <h2 className="subtitle">Burger Place</h2>
                 <BusinessRating />
-                <p><span class="tag">
+                <p><span className="tag">
                     Burgers
-                </span> <span class="tag">
+                </span> <span className="tag">
                         Fast Food
                     </span></p>
             </div>
